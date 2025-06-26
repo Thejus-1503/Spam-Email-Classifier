@@ -9,11 +9,6 @@ To develop a text classification model that identifies spam messages based on th
 
 ---
 
-## 📂 Dataset
-
-- **Source**: []
----
-
 ## 🛠️ Tools & Technologies
 
 - Python
